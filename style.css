@@ -69,3 +69,6 @@ footer .box{
 #box{
     border-left: 5px solid blue;
 }
+.email{
+    text-align: center;
+}
